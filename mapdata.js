@@ -49,7 +49,7 @@ var simplemaps_usmap_mapdata = {
     NY: { name: "New York", url: "https://www.esf.edu/eis/eis-snakes.php" },
     NC: { name: "North Carolina", url: "https://herpsofnc.org/snakes/" },
     ND: { name: "North Dakota", url: "https://www.ndherpatlas.org/group/snakes" },
-    OH: { name: "Ohio", url: "https://a-z-animals.com/animals/snake/snake-facts/28-snakes-in-ohio/" },
+    OH: { name: "Ohio", url: "https://dam.assets.ohio.gov/image/upload/ohiodnr.gov/documents/wildlife/backyard-wildlife/Pub%205354_Reptiles%20of%20Ohio%20Field%20Guide.pdf" },
     OK: { name: "Oklahoma", url: "https://www.snakesnap.co/snakes-of-oklahoma" },
     OR: { name: "Oregon", url: "https://www.dfw.state.or.us/wildlife/living_with/snakes.asp" },
     PA: { name: "Pennsylvania", url: "https://www.paherps.com/herps/snakes/" },
