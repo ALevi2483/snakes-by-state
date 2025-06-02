@@ -19,7 +19,7 @@ var simplemaps_usmap_mapdata = {
     AK: { name: "Alaska", url: "https://a-z-animals.com/blog/snakes-in-alaska/" },
     AZ: { name: "Arizona", url: "https://azstateparks.com/arizona-snakes" },
     AR: { name: "Arkansas", url: "https://herpsofarkansas.com/reptiles/snakes/" },
-    CA: { name: "California", url: "https://www.californiaherps.com/info/findsnakes.html/" },
+    CA: { name: "California", url: "https://www.californiaherps.com" },
     CO: { name: "Colorado", url: "https://www.coloherps.org/" },
     CT: { name: "Connecticut", url: "https://portal.ct.gov/deep/wildlife/learn-about-wildlife/snakes-of-connecticut" },
     DE: { name: "Delaware", url: "https://dnrec.delaware.gov/outdoor-delaware/snakes-to-watch-out-for/" },
